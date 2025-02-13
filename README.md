@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="расположение гифки в гит репозитории" align="center" style="width: 100%" />
+  <img src="everlasting-summer.gif" align="center" style="width: 100%" />
 </div>
 
 # R E S U M E
